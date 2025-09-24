@@ -151,7 +151,7 @@ if __name__ == "__main__":
         # Test GPU performance
         test_gpu_performance()
         
-        print("\n🎉 DINO-CubifyAnything integration complete!")
+        print("\n DINO-CubifyAnything integration complete!")
         print("Next steps:")
         print("1. Train on CA-1M dataset")
         print("2. Evaluate on validation set") 
